@@ -6,7 +6,7 @@ const CONFIG = {
     category_send_as: "category=%category%",
     search_min_length: 1,
     // layoutHTML: "v1-collie-layout.html",
-    layoutHTML: "v1-collie-layout.html",
+    layoutHTML: "https://dbkcgeg8vo92c.cloudfront.net/v1-collie-layout.html",
     base_api_url: "https://api.beta.mixpeek.com/v1"
 };
 
